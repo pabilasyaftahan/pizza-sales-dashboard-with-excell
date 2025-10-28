@@ -78,7 +78,7 @@ Dataset ini berisi transaksi penjualan pizza dengan beberapa kolom utama:
 Menghitung total pendapatan keseluruhan dari seluruh transaksi.  
 Menunjukkan performa bisnis secara keseluruhan.  
 
-![Total Revenue](images/total-revenue.png)
+![Total Revenue](images/total-reveneu.png)
 
 > **Insight:** Total revenue menjadi metrik utama untuk mengukur keberhasilan penjualan.
 
@@ -153,7 +153,7 @@ Dari hasil analisis, dapat disimpulkan bahwa:
 ## 📊 Dashboard Preview
 Berikut tampilan **Pizza Sales Dashboard** yang dibuat dengan Microsoft Excel:
 
-![Pizza Dashboard](imag)
+![Pizza Dashboard](images/dashboard.png)
 
 
 > Dashboard menampilkan KPI utama (Total Revenue, Total Order, AOV) serta berbagai visualisasi interaktif menggunakan Pivot Table dan Chart.
