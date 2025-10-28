@@ -76,21 +76,27 @@ Dataset ini berisi transaksi penjualan pizza dengan beberapa kolom utama:
 
 ### 📊 1. Total Revenue
 Menghitung total pendapatan keseluruhan dari seluruh transaksi.  
-Menunjukkan performa bisnis secara keseluruhan.
+Menunjukkan performa bisnis secara keseluruhan.  
+
+![Total Revenue](images/total-revenue.png)
 
 > **Insight:** Total revenue menjadi metrik utama untuk mengukur keberhasilan penjualan.
 
 ---
 
 ### 🧾 2. Total Orders
-Menghitung jumlah order unik berdasarkan `Order ID`.
+Menghitung jumlah order unik berdasarkan `Order ID`.  
+
+![Total Orders](images/total-order.png)
 
 > **Insight:** Semakin banyak order, semakin besar potensi revenue dan jangkauan pelanggan.
 
 ---
 
 ### 💰 3. Average Order Value (AOV)
-Menghitung rata-rata nilai transaksi pelanggan:
+Menghitung rata-rata nilai transaksi pelanggan:  
+
+![AOV](images/average-order-value.png)
 
 > **Insight:** Menunjukkan seberapa besar pelanggan berbelanja dalam satu pesanan.
 
@@ -98,14 +104,18 @@ Menghitung rata-rata nilai transaksi pelanggan:
 
 ### 🍕 4. Quantity per Category
 Menganalisis jumlah pizza yang terjual berdasarkan kategori.  
-Visualisasi menggunakan **Bar Chart (Pivot Chart)**.
+Visualisasi menggunakan **Bar Chart (Pivot Chart)**.  
+
+![Quantity per Category](images/quantity-pizza.png)
 
 > **Insight:** Kategori *Classic* mendominasi jumlah penjualan, menunjukkan preferensi pelanggan terhadap varian klasik.
 
 ---
 
 ### 🏆 5. Top 10 Pizza by Quantity
-Menampilkan 10 menu pizza dengan penjualan tertinggi.
+Menampilkan 10 menu pizza dengan penjualan tertinggi.  
+
+![Top 10 Pizza](images/top-10-pizza.png)
 
 > **Insight:** Pizza tertentu mendominasi penjualan dan bisa dijadikan fokus promosi atau rekomendasi utama.
 
@@ -113,7 +123,9 @@ Menampilkan 10 menu pizza dengan penjualan tertinggi.
 
 ### 📈 6. Revenue Trend by Month
 Menunjukkan perubahan revenue setiap bulan selama periode analisis.  
-Visualisasi dengan **Line Chart**.
+Visualisasi dengan **Line Chart**.  
+
+![Revenue Trend](images/revenue-trend.png)
 
 > **Insight:** Terjadi peningkatan revenue pada bulan-bulan tertentu (misal akhir tahun), yang bisa dimanfaatkan untuk strategi promosi musiman.
 
@@ -121,7 +133,9 @@ Visualisasi dengan **Line Chart**.
 
 ### 🍽️ 7. Revenue by Pizza Category and Size
 Analisis pendapatan berdasarkan kombinasi **kategori pizza** dan **ukuran**.  
-Visualisasi dengan **Clustered Column Chart**.
+Visualisasi dengan **Clustered Column Chart**.  
+
+![Revenue by Category and Size](images/revenue-by-category.png)
 
 > **Insight:** Pizza dengan ukuran *Large* dari kategori *Supreme* memberikan kontribusi revenue tertinggi.
 
@@ -137,10 +151,10 @@ Dari hasil analisis, dapat disimpulkan bahwa:
 ---
 
 ## 📊 Dashboard Preview
-
 Berikut tampilan **Pizza Sales Dashboard** yang dibuat dengan Microsoft Excel:
 
-![Pizza Sales Dashboard](images/pizza_dashboard_preview.png)
+![Pizza Dashboard](imag)
+
 
 > Dashboard menampilkan KPI utama (Total Revenue, Total Order, AOV) serta berbagai visualisasi interaktif menggunakan Pivot Table dan Chart.
 
